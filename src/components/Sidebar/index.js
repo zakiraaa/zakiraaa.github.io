@@ -38,7 +38,11 @@ const Sidebar = () => {
       </nav>
       <ul>
         <li>
-          <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/">
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="www.linkedin.com/in/sumit-mourya18"
+          >
             <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
           </a>
         </li>
@@ -52,7 +56,11 @@ const Sidebar = () => {
           </a>
         </li>
         <li>
-          <a target="_blank" rel="noreferrer" href="https://www.instagram.com/">
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://instagram.com/sumit._.mourya"
+          >
             <FontAwesomeIcon icon={faInstagram} color="#4d4d4e" />
           </a>
         </li>
